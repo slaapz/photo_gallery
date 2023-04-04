@@ -4,4 +4,4 @@
 
 Use the Unsplash photo api to create a Photo Gallery that pulls up to 10 random images.
 
-Please note that an api key is necessary and to do this project you will need to create an free account to the key.
+Please note that an api key is necessary. You get register for a free account and api key at https://unsplash.com/.
